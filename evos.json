@@ -1,0 +1,54 @@
+{}{
+	"Evos": {
+		"Evoultion 1": {
+			"image": "1993_Lancer_Evolution1.jpg",
+			"content": "Dan Brown",
+			"video": https://www.youtube.com/embed/mBSVBSzOwIw
+		},
+		"Evoultion 2": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 3": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 4": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 5": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 6": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 7": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 8": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion 9": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		},
+		"Evoultion X": {
+			"image": "The Da Vinci Code",
+			"content": "Dan Brown",
+			"video": 2003
+		}
+	}
+}
